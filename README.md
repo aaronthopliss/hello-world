@@ -1,4 +1,9 @@
 # hello-world
-another test
-Hello my name is aaron and i am testing out git which is a good program when i can get it to work.
-ps. its friday!!!!
+ths hello world,
+you have reached the hello world 
+this is the hello world on READ.md
+READ.md 
+this is 
+READ.me
+^^^^^^
+
